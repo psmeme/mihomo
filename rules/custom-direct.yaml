@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,lovetour.com
-  - DOMAIN-SUFFIX,dida.com
-  - DOMAIN-SUFFIX,umetravel.com
+  - +.lovetour.com
+  - +.dida.com
+  - +.umetravel.com
